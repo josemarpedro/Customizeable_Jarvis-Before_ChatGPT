@@ -1,0 +1,78 @@
+﻿Olá
+Olá Reíven
+Até a próxima Reíven
+Até mais Reíven
+Desliga-se Reíven
+Reiven
+Pare de falar
+Como me chamo?
+Que horas são
+Que dia é hoje
+Data de hoje 
+Qual é a data
+Como está o tempo
+Me fala do tempo
+Como vai o tempo
+Como será a previsão para amanhã
+Qual é previsão para amanhã
+Amanhã será igual ao tempo de hoje
+Como está a temperatura
+Como está a temperatura la fora
+Tocar musica
+Tocar qualquer musica
+Você decide
+Tocar
+Pause
+Turn Shuffle On
+Turn Shuffle Off
+Próxima musica
+musica Anterior
+Ir mais rápido
+Parar musica
+Almentar Volume
+Baixar Volume
+Tirar Volume
+Meter Volume
+Qual musica está tocando
+Tela cheia
+Sair da Tela cheia
+Reproduzir video
+Trocar Janela
+Fechar Janela
+Saia da frente
+Reíven apareça
+Mostrar todos comandos
+Mostrar comandos shell
+Mostrar comandos web
+Mostrar comandos sociais
+Mostrar Biblioteca de musica
+Mostrar Biblioteca de Video
+Mostrar liste de Email
+Mostrar lista
+Ocultar lista
+Desligar PC
+Terminar PC
+Reiniciar PC
+Cancelar
+Quero adicionar um comando editável
+Quero adicionar novos comandos
+Quero adicionar um comandos
+Actualizar Comandos
+Adicione um alarme
+Que horas é o alarme
+Apague o Alarme
+Pare de Ouvir
+Reíven volta estar activo
+Actualizar Bibliotecas
+Mudar directorio de video
+Mudar directorio de musica
+Verificar novos email
+Ler o email
+Abrir o email
+Próximo email
+Email anterior
+Limpar lista de email
+Escolher Edioma
+Ir a Página da Antold
+Sim
+Não

@@ -1,0 +1,38 @@
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\bin\Debug\JarvisReiven.exe.config
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.csproj.ResolveComReference.cache
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\bin\Debug\Default Commands.txt
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\bin\Debug\JarvisReiven.exe
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\bin\Debug\JarvisReiven.pdb
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\bin\Debug\taglib-sharp.dll
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\bin\Debug\Interop.WMPLib.dll
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.Customize.resources
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.frmMain.resources
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.Properties.Resources.resources
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.csproj.GenerateResource.Cache
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.exe
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.pdb
+C:\Users\ANTOLD\Downloads\JARVIS\CustomizableJarvisX\Customizable Jarvis\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.csprojResolveAssemblyReference.cache
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\bin\Debug\JarvisReiven.exe.config
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.csproj.ResolveComReference.cache
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.exe
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.pdb
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\bin\Debug\Default Commands.txt
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\bin\Debug\JarvisReiven.exe
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\bin\Debug\JarvisReiven.pdb
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\bin\Debug\taglib-sharp.dll
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\bin\Debug\Interop.WMPLib.dll
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.csprojResolveAssemblyReference.cache
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.Customize.resources
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.frmMain.resources
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.Properties.Resources.resources
+C:\Users\ANTOLD\Downloads\JARVIS\Jarvis REÍVEN\Jarvis REÍVEN - Source Code\Jarvis REÍVEN\CustomizeableJarvis\obj\x86\Debug\JarvisReiven.csproj.GenerateResource.Cache
