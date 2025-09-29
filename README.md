@@ -1,3 +1,5 @@
+<img src="app_example_image.jpg" alt="Combo Screenshot" width="1024">
+
 # Customizeable Jarvis (C# / Visual Studio 2008)
 
 ## Overview
@@ -46,15 +48,13 @@ The presence of `packages.config` shows that at some later point the project was
 
 ## Author and Credits
 
-JOSEMAR PEDRO.
-Compiled date   : Before January, 2017.
-CREDITS: Modify and Adapt to portuguese version and function voice.
-
-
-```
+- JOSEMAR PEDRO.  
+- Compiled date   : Before January, 2017.  
+- CREDITS: Modify and Adapt to portuguese version and function voice.
 
 ## License
 Choose a license (e.g., MIT) before publishing to make the repository open source.
 
 ---
+
 ✨ This project is preserved for historical and educational purposes. It demonstrates how developers used to work before modern tooling automated much of the process.
